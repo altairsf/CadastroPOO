@@ -56,6 +56,8 @@ public class CadastroPOO {
     }  
 }
 */
+// Fim do primeiro procedimento.Para usá-, descomentar o bloco anterior e comentar
+// a partir da próxima linha
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
     
